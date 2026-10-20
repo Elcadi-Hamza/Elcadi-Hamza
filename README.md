@@ -1,27 +1,12 @@
 
 <div align="center">
   <a href="https://github.com/Elcadi-Hamza">
-    <img
-      src="https://streak-stats.demolab.com?user=Elcadi-Hamza&theme=transparent&hide_border=true"
-      width="400"
-      alt="GitHub Streak Stats"
-    />
+    <img align="center" src="https://streak-stats.demolab.com?user=Elcadi-Hamza&theme=transparent&hide_border=true" width="400" alt="GitHub Streak Stats"/>
   </a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Elcadi-Hamza&show_icons=true&theme=transparent&hide_border=true" width="400" alt="GitHub Stats"/>
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Elcadi-Hamza&show_icons=true&theme=transparent&hide_border=true"
-    width="400"
-    alt="GitHub Stats"
-  />
-</div>
-
-<div align="center">
   <a href="https://Elcadi-Hamza.app">
-    <img
-      src="https://github.com/Elcadi-Hamza/Elcadi-Hamza/blob/main/img_1.png"
-      width="415"
-      alt="Profile"
-    />
+    <img src="https://github.com/Elcadi-Hamza/Elcadi-Hamza/blob/main/img_1.png" width="415" alt="Profile"/>
   </a>
 </div>
 
